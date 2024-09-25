@@ -35,7 +35,7 @@ You can view the live demo of the website [here](https://your-portfolio-demo-lin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/rashiga_portfolio/portfolio.git
 2. Navigate into the project directory:
 
 bash 
